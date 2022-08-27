@@ -1,3 +1,2 @@
-# cloud-based-CI
-A cloud environment continuous integration using aws cloud 9
 # hello
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Ganiyat-dev/cloud-based-CI/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Ganiyat-dev/cloud-based-CI/tree/main)
